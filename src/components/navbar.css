@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@900&family=Montserrat:ital,wght@1,600&family=Nunito+Sans:opsz,wght@6..12,600&family=Roboto:wght@900&family=Young+Serif&display=swap');
+
+
+
+.navbar {
+    background-color:#FFC300 ;
+    display: flex;
+    align-items: center;
+}
+
+.search {
+    height:45px;
+    width:25%;
+    text-align: center;
+    margin:0 auto;
+    font-family: NunitoSans ;
+    font-size: 1.4em;
+}
+
+.title {
+    font-family: Heebo;
+    padding:8px;
+}
+
+.img {
+    font-size: 1em;
+}
